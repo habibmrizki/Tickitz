@@ -1,12 +1,12 @@
 import React from "react";
-import Tickitz from "../assets/img/Tickitz-footer.svg";
-import Ebuid from "../assets/img/Ebu.id.svg";
-import Cinema21 from "../assets/img/CineOne212.svg";
-import Hiflix from "../assets/img/Hiflix2.svg";
-import Facebook from "../assets/img/Logo-Facebook.svg";
-import Instagram from "../assets/img/Logo-Instagram.svg";
-import Twitter from "../assets/img/Logo-Twitter.svg";
-import Youtube from "../assets/img/Logo-Youtube.svg";
+import Tickitz from "../../public/img/Tickitz-footer.svg";
+import Ebuid from "../../public/img/Ebu.id.svg";
+import Cinema21 from "../../public/img/CineOne212.svg";
+import Hiflix from "../../public/img/Hiflix2.svg";
+import Facebook from "../../public/img/Logo-Facebook.svg";
+import Instagram from "../../public/img/Logo-Instagram.svg";
+import Twitter from "../../public/img/Logo-Twitter.svg";
+import Youtube from "../../public/img/Logo-Youtube.svg";
 
 function Footer() {
   return (
