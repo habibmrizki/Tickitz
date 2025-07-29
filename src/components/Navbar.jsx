@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import HambugerMenu from "../assets/img/hamburger-menu.svg";
-import Tickitz from "../assets/img/Tickitz-navbar.svg";
+import HambugerMenu from "../../public/img/hamburger-menu.svg";
+import Tickitz from "../../public/img/Tickitz-navbar.svg";
 
 // import { Link } from "react-router"; // Baris ini dihapus
 // import { Link } from "react-router-dom"; // Baris ini juga dihapus jika ada
